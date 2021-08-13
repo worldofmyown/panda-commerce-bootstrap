@@ -1,0 +1,36 @@
+/********
+Utilities
+*********/
+.panda-button{
+       background-image: linear-gradient(to bottom, #FF589B 0%, #FF136F 100%);
+       color: #fff;
+       border: none;
+       border-radius: 8px;
+       padding: 9px 25px;
+       cursor: pointer;
+}
+
+/*************************
+Image Banner Slider Styles
+**************************/
+.panda-bg-slider{
+    background-color: #fceae8;
+}
+/****************
+Categories Styles
+****************/
+.panda-categories img{
+    width: 100px;
+}
+.panda-categories-watch{
+    background-color: #ffa500;
+    border-radius: 10px;
+}
+.panda-categories-bag{
+    background-color: #da70d6;
+    border-radius: 10px;
+}
+.panda-categories-shoes{
+    background-color: #0000ff;
+    border-radius: 10px;
+}
